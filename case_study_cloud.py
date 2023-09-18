@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 SHOW_PLOT = False
 
-IMG_PATH = 'C:/Users/ellerhol/Documents/Papers/images/'
+IMG_PATH = '<PATH>'
 
 AXIS_FONTSIZE = 13.0
 
